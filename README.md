@@ -12,11 +12,7 @@
 
 ## Requests, Improvements, Issues
 
-If you found a mistake, or want improvemenents are needed feel free to submit [**a new issue**](https://github.com/ummahusla/codecademy-exercise-answers/issues).
-
-## Credits
-
-Big thanks to all [**contributors**](https://github.com/ummahusla/Codecademy-Exercise-Answers/graphs/contributors).
+If you found a mistake, or want improvemenents are needed feel free to submit [**a new issue**](https://github.com/JohnDoesCodes/HTML-Codecademy-Course).
 
 ## License
 
